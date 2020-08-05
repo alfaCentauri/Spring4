@@ -1,4 +1,4 @@
-module Spring3 {
+module Spring4 {
 	exports DemoAnotaciones;
 	requires spring.core;
 	requires spring.context;
