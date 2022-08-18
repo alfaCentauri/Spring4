@@ -27,3 +27,5 @@ bin/
 .project
 Spring4.iml
 .idea/
+out/
+libs/
